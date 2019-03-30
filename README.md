@@ -11,3 +11,9 @@ Let's look at each of the widely used networks in natural language processing on
 [CNN](https://github.com/hskimim/Natural_language_Processing_self_study/tree/master/CNN)
 
 <img src="CNN_PIC.png">
+- https://medium.com/@rgrgrajat1/sentence-classification-using-cnn-with-deep-learning-studio-fe54eb53e24
+
+[RNN](https://github.com/hskimim/Natural_language_Processing_self_study/tree/master/RNN_LSTM_GRU)
+
+<img src='RNN_PIC.png'>
+- https://www.researchgate.net/figure/Example-of-LSTM-network-call-for-text-classification_fig1_318018787
