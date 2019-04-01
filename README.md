@@ -18,3 +18,5 @@ Let's look at each of the widely used networks in natural language processing on
 <img src='RNN_PIC.png'>
 
 [RNN Seq2Seq](https://github.com/hskimim/Natural_language_Processing_self_study/tree/master/RNN_Seq2Seq)
+
+<img src='RNN_Seq2Seq_PIC.png'>
