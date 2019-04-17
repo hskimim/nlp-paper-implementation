@@ -8,19 +8,22 @@ Although it is self-study, I borrow strength from the people around me and the I
 
 Let's look at each of the widely used networks in natural language processing one by one. I would like to translate and summarize related papers in the same file per network, so please give me lots of feedback!
 
-[CNN](https://github.com/hskimim/Natural_language_Processing_self_study/tree/master/CNN)
+[CNN_for_classification](https://github.com/hskimim/Natural_language_Processing_self_study/tree/master/Attention_for_classification)
+- Yoon kim (2014), Convolutional Neural Networks for Sentence
 
-<img src="CNN_PIC.png">
+[RNN_LSTM_GRU](https://github.com/hskimim/Natural_language_Processing_self_study/tree/master/RNN_LSTM_GRU_for_classification)
+- it is not based on paper(literature)
 
+[Char_CN_for_Language_Modeling](https://github.com/hskimim/Natural_language_Processing_self_study/tree/master/Char_CNN_for_Language_Modeling)
+- Yoon kim(2015),"Character-Aware Neural Language Models"
 
-[RNN](https://github.com/hskimim/Natural_language_Processing_self_study/tree/master/RNN_LSTM_GRU)
+[RNN_for_Seq2Seq](https://github.com/hskimim/Natural_language_Processing_self_study/tree/master/RNN_for_Seq2Seq)
+- Ilya Sutskever, Oriol Vinyals, Quoc V. Le(2014), "Sequence to Sequence Learning with Neural Networks
+- Cho,  Merrienboer, Gulcehre (2014), "Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation"
 
-<img src='RNN_PIC.png'>
+[Attention of Seq2Seq](https://github.com/hskimim/Natural_language_Processing_self_study/tree/master/Attention_for_Seq2Seq)
+- Dzmitry Bahdanau(2014), Neural Machine Translation by Jointly Learning to Align and Translate
+- Minh-Thang Luong(2015), "Effective Approaches to Attention-based Neural Machine Translation"
 
-[RNN Seq2Seq](https://github.com/hskimim/Natural_language_Processing_self_study/tree/master/RNN_Seq2Seq)
-
-<img src='RNN_Seq2Seq_PIC.png'>
-
-[RNN_Attention](https://github.com/hskimim/Natural_language_Processing_self_study/tree/master/RNN_Attention)
-
-<img src = 'ATTENTION_PIC.png'>
+[Attention for Classfication](https://github.com/hskimim/Natural_language_Processing_self_study/tree/master/Attention_for_classification)
+- Zichao Yang(2016), "Hierarchical Attention Networks for Document Classification"
