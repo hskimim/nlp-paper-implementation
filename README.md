@@ -14,7 +14,7 @@ Let's look at each of the widely used networks in natural language processing on
 [RNN_LSTM_GRU](https://github.com/hskimim/Natural_language_Processing_self_study/tree/master/RNN_LSTM_GRU_for_classification)
 - it is not based on paper(literature)
 
-[Char_CN_for_Language_Modeling](https://github.com/hskimim/Natural_language_Processing_self_study/tree/master/Char_CNN_for_Language_Modeling)
+[Char_CNN_for_Language_Modeling](https://github.com/hskimim/Natural_language_Processing_self_study/tree/master/Char_CNN_for_Language_Modeling)
 - Yoon kim(2015),"Character-Aware Neural Language Models"
 
 [RNN_for_Seq2Seq](https://github.com/hskimim/Natural_language_Processing_self_study/tree/master/RNN_for_Seq2Seq)
