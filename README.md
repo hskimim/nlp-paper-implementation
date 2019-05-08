@@ -30,3 +30,6 @@ Let's look at each of the widely used networks in natural language processing on
 
 [Self-Attention for Machine Translation](https://github.com/hskimim/Natural_language_Processing_self_study/tree/master/Self-Attention_for_Machine_Translation)
 - Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin(2017),"Attention Is All You Need"
+
+[ELMO](https://github.com/hskimim/Natural_language_Processing_self_study/tree/master/ELMO)
+- Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer(2018),"Deep contextualized word representations"
